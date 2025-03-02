@@ -18,7 +18,7 @@ A Simple Spring Boot project that creates REST API for user management(It is use
 - `POST /api/users` - Create a new user
 - `PUT /api/users/{id}` - Update a user
 - `DELETE /api/users/{id}` - Delete a user
-##### You can test all this using Postman Tool #####
+##### You can test all this using Postman Tool(Best for manual API testing) #####
 
 # License
 MIT License
